@@ -1,7 +1,6 @@
 ### 📊 Minhas Contribuições
 
 
-<div id="git stats">
 <p>
   <img 
     align="left" 
@@ -19,4 +18,3 @@
   />
 
 </p>
-</div>
