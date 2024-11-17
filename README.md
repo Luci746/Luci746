@@ -34,7 +34,7 @@ onde você pode me encontrar:
     src="https://github-readme-stats.vercel.app/api?username=Luci746&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
 />
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luci746&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
