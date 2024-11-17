@@ -27,5 +27,5 @@ onde você pode me encontrar:
 
 ### 📊 Minhas Contribuições
 
-<img align="left" alt="Github stats" height=200 src="https://github-readme-stats.vercel.app/api?username=Luci746&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br">
-<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luci746&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=10">
+<img align="left" alt="Github stats" height=190 src="https://github-readme-stats.vercel.app/api?username=Luci746&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br">
+<img align="left" alt="Github stats" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luci746&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=10">
