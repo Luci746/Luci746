@@ -39,5 +39,3 @@ onde você pode me encontrar:
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luci746&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-</br>
-oi
