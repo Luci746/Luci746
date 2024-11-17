@@ -1,6 +1,4 @@
-###  Olá, me chamo Lucio
-
-- Atualmente Curso ADS e estou à procura de um estágio como Desenvolvedor de software.
+###  Olá, eu sou o Lucio, Estudo Tecnologia e estou à procura de novas oportunidades
 
 ![Luci746 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luci746&show_icons=true&theme=onedark)
 
