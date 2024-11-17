@@ -1,6 +1,4 @@
-###  Olá, eu sou o Lucio, Estudo Tecnologia e estou à procura de novas oportunidades
-
-![Luci746 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luci746&show_icons=true&theme=onedark)
+###  Olá, eu sou o Lucio, e estou à procura de oportunidades.
 
 
 ### Tecnologias que domino
@@ -26,3 +24,20 @@
 onde você pode me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-lucio-a613112a3)
+
+### 📊 Minhas Contribuições
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Luci746&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luci746&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+</br>
+oi
